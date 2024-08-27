@@ -33,11 +33,9 @@ We aim to continuously push the boundaries of aerospace technology, blending res
 Every project we undertake adheres to the highest standards of safety, precision, and technological advancement. Our commitment to **quality**, **innovation**, and **customer satisfaction** drives our work and is reflected in the exceptional results we deliver across a range of products and services.
 
 ## 💡 **Why Aethrone Aerospace?**
-- **Innovative Technologies**: We integrate the latest advancements in AI, machine learning, and materials science to develop smarter, more efficient aerospace systems.
+- **Innovative Technologies**: We integrate the latest advancements in AI, machine learning,Computer Vision, and materials science to develop smarter, more efficient aerospace systems.
 - **Experienced Team**: Our multidisciplinary team has hands-on experience with real-world aerospace challenges and emerging technologies.
 - **Collaborative Partnerships**: We work closely with leading research institutions, industry experts, and defense organizations to deliver solutions that are reliable, scalable, and future-ready.
 
 ## 📈 **Get Involved**
-Our GitHub organization is a space where we share some of our most exciting projects, research, and code with the broader community. Explore our repositories to learn more about how we are driving innovation in the aerospace and defense industries.
-
 Whether you are an aerospace enthusiast, a fellow engineer, or a potential collaborator, we invite you to explore our work and join us on our mission to redefine the future of aerospace.
