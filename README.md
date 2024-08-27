@@ -46,5 +46,3 @@ Every project we undertake adheres to the highest standards of safety, precision
 ## 📈 **Get Involved**
 Whether you are an aerospace enthusiast, a fellow engineer, or a potential collaborator, we invite you to explore our work and join us on our mission to redefine the future of aerospace.
 
-[![Watch our video](https://uttorea.vercel.app/static/media/Uttorea.f7c76ec7b02d306f15e9.mp4)
-
