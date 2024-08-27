@@ -8,16 +8,18 @@ At Aethrone Aerospace, we specialize in developing sophisticated solutions for t
 With a team of passionate engineers and innovators from diverse fields—ranging from aerospace and mechanical engineering to embedded systems and industrial production—we are driven by the mission to build the next generation of advanced aerospace systems.
 
 ## 🛠️ **Our Expertise**
-We are specialists in the design, development, and support of systems across various aerospace applications, including but not limited to:
-- **RUAVs (Rotary Unmanned Aerial Vehicles)**
-- **Target UAVs**
-- **Advanced Air Mobility Platforms**
-- **Cruise Missiles**
-- **Combat and Light Utility Helicopters**
-- **Loitering Munition**
-- **Aerial Robotics**
+We are experts in the design, development, and support of systems across a wide range of aerospace applications. Our areas of specialization include:
 
-Our solutions cater to critical missions where performance, precision, and reliability are paramount.
+- 🚁 **RUAVs (Rotary Unmanned Aerial Vehicles)** ![RUAV icon](https://img.icons8.com/emoji/48/000000/helicopter-emoji.png)
+- 🎯 **Target UAVs** ![Drone icon](https://img.icons8.com/color/48/000000/drone.png)
+- 🚀 **Advanced Air Mobility Platforms** ![Air Mobility](https://img.icons8.com/fluency/48/000000/rocket.png)
+- 🎯 **Cruise Missiles** ![Missile icon](https://img.icons8.com/emoji/48/000000/missile-emoji.png)
+- 🚁 **Combat and Light Utility Helicopters**
+- 🎯 **Loitering Munition**
+- 🤖 **Aerial Robotics** ![Robotics](https://img.icons8.com/color/48/000000/robot.png)
+
+Our solutions cater to mission-critical scenarios where performance, precision, and reliability are essential.
+
 
 ## 🚀 **What We Offer**
 Our diverse range of products and services allows us to cover multiple aspects of aerospace design and development:
