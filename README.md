@@ -1,6 +1,6 @@
 # Welcome to Aethrone Aerospace GitHub Profile! 🌍🚀
 
-![Aethrone Aerospace Logo](https://www.aethroneaerospace.com/assets/Variant3-pwZB4bRF.png)  
+![Aethrone Aerospace Logo](https://media.licdn.com/dms/image/v2/C4D1BAQGWe66Q1-VUxA/company-background_10000/company-background_10000/0/1596710836708/aethrone_aerospace_cover?e=2147483647&v=beta&t=ZOQu9UUuGlA3NelwEcEP6w5ZsvO63zA-14F4Vm5sHE8)  
 👋 **Welcome to Aethrone Aerospace**, a pioneering deep-tech startup focused on shaping the future of **Aerospace and Defense** through innovation, precision engineering, and cutting-edge technology. We design, develop, and manufacture critical mission systems, platforms, and components that support the most demanding environments and missions.
 
 ---
