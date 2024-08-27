@@ -1,12 +1,15 @@
 # Welcome to Aethrone Aerospace GitHub Profile!
 
-👋 Hi, Aethrone Aerospace is a deep tech startup founder specializing in aerospace, defense, and cutting-edge technologies.
+👋 Hi
+Aethrone Aerospace is a deep tech startup.
+We design, develop, manufacture and support critical mission systems, platforms, and components for the Aerospace and Defence Sector.
 
-## My Expertise
+## Our Specialty
 - RUAVs, Target UAVs, Advanced Air Mobility
 - Cruise Missiles, Combat Helicopters, Aerial Robotics
 
-## Projects
-- 🚁 **RUAV Development**
-- 🛩️ **Advanced Light Helicopter**
+## What We Offer
+- 🚁 **Launch and Recovery**
+- 🛩️ **Parachutes & LTA System**
+- 🛩️ **Advanced Composites**
 - 🛰️ **Aerial Robotics**
