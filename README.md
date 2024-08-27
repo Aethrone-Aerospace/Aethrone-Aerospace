@@ -45,4 +45,5 @@ Every project we undertake adheres to the highest standards of safety, precision
 
 ## 📈 **Get Involved**
 Whether you are an aerospace enthusiast, a fellow engineer, or a potential collaborator, we invite you to explore our work and join us on our mission to redefine the future of aerospace.
-![Aethrone Aerospace Logo](https://www.aethroneaerospace.com/assets/launcherimg5-CTb0KvS8.png)
+
+![Aethrone Aerospace Logo](https://www.aethroneaerospace.com/assets/frtimg5-DjxcvoDf.png)
