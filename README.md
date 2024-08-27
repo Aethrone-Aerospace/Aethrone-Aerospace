@@ -6,6 +6,8 @@
 ## 🌟 **Who We Are**
 At Aethrone Aerospace, we specialize in developing sophisticated solutions for the **Aerospace and Defense** sectors. Our mission is to bridge the gap between institutional research, industry requirements, and customer needs, including certification processes, to ensure that our systems meet the highest standards of reliability and performance.
 
+![Aethrone Aerospace Logo](https://www.aethroneaerospace.com/assets/Variant2-Z0rb2iw_.png)
+
 
 With a team of passionate engineers and innovators from diverse fields—ranging from aerospace and mechanical engineering to embedded systems and industrial production—we are driven by the mission to build the next generation of advanced aerospace systems.
 
